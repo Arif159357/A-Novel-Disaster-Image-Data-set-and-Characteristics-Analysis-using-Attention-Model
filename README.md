@@ -1,3 +1,3 @@
 # A-Novel-Disaster-Image-Data-set-and-Characteristics-Analysis-using-Attention-Model
 
-![alt text](https://github.com/Arif159357/A-Novel-Disaster-Image-Data-set-and-Characteristics-Analysis-using-Attention-Model/main/ICPR.PNG?raw=true)
+![ICPR](https://user-images.githubusercontent.com/55071900/102799457-c4e2dc00-43dc-11eb-9103-760db6e195fd.PNG)
